@@ -1,0 +1,4 @@
+new training
+
+day1 06-03-2025
+git add .
