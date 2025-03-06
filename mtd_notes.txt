@@ -1,4 +1,9 @@
 new training
 
 day1 06-03-2025
-git add .
+
+to connect the text to git
+//git add .
+//git commit -m
+//git commit -m "notes of mtd training added"
+//git push origin main
