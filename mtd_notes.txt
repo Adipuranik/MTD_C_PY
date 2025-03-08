@@ -7,3 +7,63 @@ to connect the text to git
 //git commit -m
 //git commit -m "notes of mtd training added"
 //git push origin main
+
+DAY2 07-03-2025 
+ (8:30) 
+history : multex, BPCL had bad memory, dennis richie added dynamic memory locaton
+high cohesion and low cohesion(more terms less usage)
+
+ARITHMATIC OPERATORS:
+
+AO need 2 operators
+operators bw operands is infix notation......prefix and post fix
+input and op are numbers
+datatypes of both the operands must be similar
+left to right associativity w.r.t to reading the values/exp
+for the calculatonto happen,the user/programmer give infix expression must be converted to postfix
+reason: operators have diff precedence/hierarchy.
+
+RELATIONAL OPERATORS: < > == != >= <=
+
+LOGICAL OPERATORS : & && | || !
+
+&& - short corcuited and
+|| - short corcuited or
+
+afternoon
+
+5 STEPS TO SOLVE THE PROBLEM
+
+1.  understand the problem recognize the input dataand the relevant info. isolate the unwanted data and info.recognize theop.
+2. finfd the solution with all possible ways,trail and error method,applying an algorith stc.
+3. write down the algorithm step by step procedure to solve the problem.each step must be atomic simple and finite
+4. wite the fake code.(pseudocode)
+code it.
+
+
+to check if a number is perfect sqaure.
+
+read ip number, say N
+root = (integer) squareroot
+root*root== N then 
+     print N is perfect sqaure
+	 else
+	 print N is not perfect sqaure
+
+fibonacc and prime of the given series
+
+2nd smallest number of the given digit
+to solve it in 1 loop
+
+--------------------------------------------------------------------------
+DAY3 SATURDAY 07-03-2025
+
+functions
+restraunt example:
+learnt abt function terminologies
+address pointer
+wild pointer
+null pointer
+stack overflow
+prologue...main
+function call stack
